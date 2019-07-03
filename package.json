@@ -14,10 +14,10 @@
   },
   "keywords": [
     "React",
-    "Autocomplete",
-    "Input",
-    "Input",
-    "Form"
+    "Condition",
+    "If",
+    "Else",
+    "Switch"
   ],
   "author": "Aykut Kardaş",
   "license": "MIT",
